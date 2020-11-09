@@ -156,7 +156,7 @@ comand(rover1, 'rffrbk') /*<== PUT YOUR ROVER ORDERS (l-r-f-b) INSIDE 'string'*/
 //==================================================================================
 
 // bonus4 ideas. lot of ideas, no succes...
-
+// 1st git upload
 const rover0 = {
   name: 'Rover_0',
   number: '0',
